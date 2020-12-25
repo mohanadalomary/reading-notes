@@ -1,8 +1,8 @@
 # welcom
 
 ## table of content
-
-|reads|links |
+| Syntax      | Description |
+| ----------- | ----------- |
 |growth|[link](https://mohanadalomary.github.io/reading-notes/growth)|
 |read01|[link](https://mohanadalomary.github.io/reading-notes/read01)|
 |read02|[link](https://mohanadalomary.github.io/reading-notes/read02)|
