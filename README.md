@@ -1,8 +1,8 @@
 # welcom
-## A growth mindset  is a love of learning. it method to more creativity and possibility, and enable the setting of higher goals and more achievement and more productive. On the other hand fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort. I can  keep myelf in a growth mindset by :
-1-embrace challange
-2-learns from criticism
-3-inspired by success of other
+## A growth mindset  is a love of learning. it method to more creativity and possibility, and enable the setting of higher goals and more achievement and more productive. On the other hand > fixed mindset intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort. I can  keep myelf in a growth mindset by :
+1. embrace challange
+2. learns from criticism
+3. inspired by success of other
 ### table of content
 | Syntax      | Description |
 | ----------- | ----------- |
